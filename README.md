@@ -1,6 +1,5 @@
-#👋 Hi!
-
-###I'm Ducky 🐣
+# 👋 Hi!
+### I'm Ducky 🐣
 ㅤ
 
 Find me around the web:

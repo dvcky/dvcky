@@ -1,14 +1,16 @@
-### Hi there 👋
+#👋 Hi!
+###I'm Ducky 🐣
+ㅤ
 
-**dvcky/dvcky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Find me around the web:
 
-Here are some ideas to get you started:
+* coding on [GitHub](https://github.com/dvcky "dvcky"),
+* gaming on [Steam](http://steamcommunity.com/profiles/76561198267244200 "76561198267244200"),
+* talking on [Discord](https://github.com/dvcky "ducky#7081"),
+* or on my [website](https://www.dvcky.ga/ "dvcky.ga")!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Thanks for visiting, and enjoy your stay! 🍃
+
+ㅤ
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvcky&layout=compact)

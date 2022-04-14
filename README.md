@@ -13,4 +13,4 @@ Thanks for visiting, and enjoy your stay! 🍃
 
 ㅤ
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=dvcky)](https://github.com/dvcky "Keep on learning!")
+![](https://github.com/dvcky/github-stats/blob/master/generated/languages.svg)

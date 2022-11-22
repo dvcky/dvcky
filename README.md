@@ -15,6 +15,18 @@ masses in easier, more accessible ways. Stay safe out there! 💖<br>
 
 ## Languages:
 
+<b>Here's what I've done so far...</b>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvcky&layout=compact&hide_title=true&card_width=365)
+
+<b>...and here's what I plan to do next!</b>
+
+[![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/ "Go")
+[![](https://img.shields.io/badge/java-f8981d?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/ "Java")
+[![](https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/ "Qt")
+[![](https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/ "Ruby")
+[![](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html "SQLite")
+
+Feel free to recommend projects relating to the languages above!<br><br>
 
 #### Thanks for visiting! ~

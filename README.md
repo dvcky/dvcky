@@ -4,8 +4,7 @@
 Hi! I'm Ducky - a student currently studying in the Computer-Science<br>
 field, and I have a large passion for Free and Open-Source software!<br><br>
 In the end, my goal is to bring these technologies I love to the<br>
-masses in easier, more accessible ways. Stay safe out there! 💖<br><br>
-<i>ALWAYS SAY YES TO PRIVACY!</i>
+masses in easier, more accessible ways. Stay safe out there! 💖<br>
 
 ## Social:
 

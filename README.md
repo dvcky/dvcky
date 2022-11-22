@@ -1,11 +1,11 @@
 # 🍃 Ducky 🍃
 <img align="right" src="https://github.com/dvcky/dvcky/raw/main/assets/kiki.gif" style="height: 180px;" />
-
-Hi! I'm Ducky - a student currently studying in the Computer-Science field.<br>
-I have a large passion for Free and Open-Source software!<br>
-My end-goal is to bring these technologies I hold dear to the masses in an<br>
-easier, more accessible way. It's a dangerous world, stay safe out there! 💖<br><br>
-_ALWAYS SAY YES TO PRIVACY!_
+<p align="center">°˖✧◝(⁰▿⁰)◜✧˖°</p>
+Hi! I'm Ducky - a student currently studying in the Computer-Science<br>
+field, and I have a large passion for Free and Open-Source software!<br><br>
+In the end, my goal is to bring these technologies I love to the<br>
+masses in easier, more accessible ways. Stay safe out there! 💖<br><br>
+<i>ALWAYS SAY YES TO PRIVACY!</i>
 
 ## Social:
 

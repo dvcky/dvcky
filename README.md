@@ -15,11 +15,11 @@ masses in easier, more accessible ways. Stay safe out there! 💖<br>
 
 ## Languages:
 
-<b>Here's what I've done so far...</b>
+_Here's what I've done so far..._
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvcky&layout=compact&hide_title=true&card_width=365)
 
-<b>...and here's what I plan to do next!</b>
+_...and here's what I plan to do next!_
 
 [![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/ "Go")
 [![](https://img.shields.io/badge/java-f8981d?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/ "Java")

@@ -11,13 +11,13 @@ more accessible ways. <i>Stay safe, and ALWAYS say yes to privacy!</i> 🔍</p>
 <a href="http://steamcommunity.com/profiles/76561198267244200"><img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://dvcky.github.io"><img src="https://img.shields.io/badge/website-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white"></a>
 <h2>Languages:</h2>
-<i>Here's what I've done so far...</i>
+<i>Here's what I've done so far...</i><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvcky&layout=compact&hide_title=true&card_width=360">
-<i>...and here's what I plan to do next!</i><br>
+<i>...and here's what I plan to do next!</i><br><br>
 <a href="https://go.dev/"><img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
 <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/java-f8981d?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a href="https://www.qt.io/"><img src="https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"></a>
 <a href="https://www.ruby-lang.org/"><img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a>
 <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a><br>
-<ins>Feel free to recommend projects relating to the languages above!</ins>
+<ins>Feel free to recommend projects relating to the languages above!</ins><br><br>
 <h4>Thanks for visiting! ~</h4>

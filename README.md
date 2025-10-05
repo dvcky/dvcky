@@ -1,8 +1,8 @@
 <h1>🍃 Ducky 🍃</h1>
 <img align="right" src="https://github.com/dvcky/dvcky/raw/main/assets/kiki.gif" style="height: 180px;" />
 <p align="center">°˖✧◝(⁰▿⁰)◜✧˖°</p>
-<p>Hi! I'm Ducky - a student currently studying in the Computer-Science<br>
-field. I have a large passion for computers and open-source software!<br><br>
+<p>Hi! I'm Ducky - I work in the software development field, specifically for<br>
+web applications. I have a big passion for free and open-source software!<br><br>
 My goal is to bring the technologies I love to the masses in easier, more<br>
 accessible ways. <i>Stay safe out there! Use privacy-respecting software!</i> 🕵️</p>
 <h2>Social:</h2>

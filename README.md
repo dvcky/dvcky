@@ -12,7 +12,7 @@ accessible ways. <i>Stay safe out there! Use privacy-respecting software!</i> ðŸ
 <a href="https://dvcky.github.io"><img src="https://img.shields.io/badge/website-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white"></a>
 <h2>Languages:</h2>
 <i>Here's what I've done so far...</i><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvcky&hide_title=true&card_width=360&langs_count=10&layout=compact">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dvcky&hide_title=true&card_width=360&langs_count=10&layout=compact">
 <i>...and here's what I plan to do next!</i><br><br>
 <a href="https://go.dev/"><img src="https://img.shields.io/badge/hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white"></a>
 <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/java-f8981d?style=for-the-badge&logo=openjdk&logoColor=white"></a>
